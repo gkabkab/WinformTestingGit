@@ -19,7 +19,7 @@ namespace WinformTestingGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello");
+            MessageBox.Show("Hello " + textBox1.Text);
         }
     }
 }
