@@ -35,7 +35,7 @@ namespace WinformTestingGit
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(56, 90);
+            this.button1.Location = new System.Drawing.Point(282, 109);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(224, 136);
             this.button1.TabIndex = 0;
