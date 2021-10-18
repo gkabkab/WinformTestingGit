@@ -88,7 +88,7 @@ namespace WinformTestingGit
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(224, 136);
             this.button5.TabIndex = 5;
-            this.button5.Text = "B5";
+            this.button5.Text = "B5 Rebase ";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button6
